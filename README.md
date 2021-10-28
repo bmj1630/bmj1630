@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Matthew Savin.
-- 👀 I’m interested in becoming a Python developer.
+- 👀 I’m interested in expanding my skills as a professional software developer.
 - 🌱 I’m currently learning Python, Javascript, MySQL.
 - 💞️ I’m looking to collaborate on large projects with small teams of developers, and hopefully expanding my skill set as I progress.
 - 📫 How to reach me PHONE(561-252-7834) EMAIL(matthewsavin8@outlook.com).
